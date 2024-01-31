@@ -3,6 +3,11 @@
 ## Table of contents
 
 - [Project overview](#project-overview)
+- [Data sources](#data-sources)
+- [Tools used](#tools-used)
+- [Data preparation](#data-preparation)
+- [Exploratory data anlaysis](#exploratory-data-analysis)
+- [Results](#results)
 - [Recommendations](#recommendations)
 
 ### Project overview
@@ -15,7 +20,7 @@
  - Excel - Data cleaning
  - Jupyter notebook  - Data cleaning, visualizing and creating report
     
-### Data cleaning/preparation
+### Data preparation
 
   In the innitial data preparation phase ,we performed the following tasks:
   
@@ -30,7 +35,7 @@
     2. During which months these machines undergo maintence.
     3. What are the parameters affecting the machines performance.
 
-### Results/findings
+### Results
 
 The Analysis results are summarized as follows:
 
