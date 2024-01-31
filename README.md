@@ -1,5 +1,10 @@
 # Machine Failure Analysis
 
+## Table of contents
+
+- [Project overview](#project-overview)
+- [Recommendations](#recommendations)
+
 ### Project overview
  This Data analysis project is to optimize the engine's machine down time and find the parameters that influence this downtime which leads to decrease in the vehicle engine's production.
 
